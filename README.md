@@ -11,7 +11,7 @@
 
 🤖 **Data Science | Machine Learning**: Weaving actionable insights, predicting trends, and unlocking data's hidden treasures to illuminate the path to success   
 
-🔧 **Process Automation, web scraping, and API**: Automating tasks seamlessly, writing efficient code, collecting data from the web and APIs  
+🔧 **Process Automation, web scraping, and API**: Automating tasks seamlessly, collecting data from the web and APIs  
 
 💬 **Python**: My coding playground is Python, where I make ideas come to life with efficient and elegant solutions
 <br>
