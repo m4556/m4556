@@ -9,7 +9,7 @@
 
 📊 **Data Analysis | Statistical Analysis | Data Visualization**: Turning data into exciting tales with analysis tricks, statistical magic and visuals  
 
-🤖 **Data Science | Machine Learning**: Weaving actionable insights, predicting trends, and unlocking data's hidden treasures to illuminate the path to success   
+🤖 **Data Science | Machine Learning**: Crafting actionable insights, predicting outcomes, and unlocking data's hidden treasures to pave the way for success.  
 
 🔧 **Process Automation, web scraping, and API**: Automating tasks seamlessly, collecting data from the web and APIs  
 
