@@ -11,7 +11,7 @@
 
 🤖 **Data Science | Machine Learning**: Crafting actionable insights, predicting outcomes, and unlocking data's hidden treasures to pave the way for success  
 
-🔧 **Process Automation, web scraping, and API**: Automating tasks seamlessly, collecting data from the web and APIs  
+🔧 **Process Automation, web scraping, and API**: Automating tasks, collecting data from the web and APIs  
 
 💬 **Python**: My coding playground is Python, where I make ideas come to life with efficient and elegant solutions
 <br>
@@ -36,7 +36,8 @@
 ![](https://img.shields.io/badge/deep%20learning-2bbc8a)
 ![](https://img.shields.io/badge/python-blue)
 
-
+---
+Check out my projects below 👋🏼
 
 
 
