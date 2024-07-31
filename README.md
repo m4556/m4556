@@ -25,3 +25,14 @@
 🤹‍♀️ Love learning new technologies 
 <br>
 <br>
+
+---
+### 🔭 Interests
+![](https://img.shields.io/badge/data%20science-blue)
+![](https://img.shields.io/badge/data%20engineering-2bbc8a)
+![](https://img.shields.io/badge/machine%20learning-blue)
+![](https://img.shields.io/badge/deep%20learning-2bbc8a)
+![](https://img.shields.io/badge/python-blue)
+
+---
+Check out my projects below 👋🏼
